@@ -8,6 +8,9 @@
 - 星5戦法
 - 星4戦法
 ## 使用方法
+1. タスクバーから「IMEオプション」を右クリックして、「単語の追加」を選択
+![image](https://github.com/user-attachments/assets/e0dd80e4-d72e-4d85-9478-193e2dcef5bb)
+1. 
 
 ### Windows
 
