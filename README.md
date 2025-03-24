@@ -11,7 +11,7 @@ S19まで
 - 星4戦法
 ## 使用方法
 ### Windows
-1. 「Windows_S19_list.txt」をクリックし、このマークからダウンロードします。![image](https://github.com/user-attachments/assets/884ca5ee-38fb-4ab4-bb04-4fc1a7f00e79)
+1. 本ページの上のほうにある「Windows_S19_list.txt」をクリックし、このマークからダウンロードします。![image](https://github.com/user-attachments/assets/884ca5ee-38fb-4ab4-bb04-4fc1a7f00e79)
 2. 画面の一番右下の、ひらがなの「あ」またはアルファベットの「A」で「右クリック」
 3. 「単語の追加」をクリックし、ポップアップの一番下にある、「ユーザー辞書ツール」をクリック
 4. 上部の「ツール」を選択し「テキストからの登録」を選択
@@ -19,7 +19,7 @@ S19まで
 6. 成功すれば単語リストが表示されます。(うまくいかない場合はWindows_S19_list.txtを新しく名前を付けて保存し、文字コードを「UTF-16LE」とかにしてみてください)
 ### Android
 1. Google PLAYストアから「Gbord -Googleキーボード」をダウンロード。 (すでにインストールされていれば2.に進んでください)
-2. 「Android_S19_list.txt」をクリックし、右側の「(三点リーダーのマーク)」からダウンロード。
+2. 本ページの上のほうにある「Android_S19_list.txt」をクリックし、右側の「(三点リーダーのマーク)」からダウンロード。
 3. 「設定」から「Gbord」と検索し、Gbordを開く
 4. 「単語リスト」→「日本語」の順に進み、「(三点リーダーのマーク)」から「インポート」を選択
 5. ダウンロードした「Android_S19_list.txt」を選択
@@ -31,7 +31,7 @@ AndroidはGbordを使います。2回目以降の登録はリストが重複し�
 
 ### 使用方法の参考
 Windows　<br>
-https://sakusaku-office.com/office/post-10539/
+https://sakusaku-office.com/office/post-10539/<br>
 Android　<br>
 https://4thsight.xyz/13548
 
