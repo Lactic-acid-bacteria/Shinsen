@@ -17,11 +17,20 @@
 6. 成功すれば単語リストが表示されます。(うまくいかない場合はWindows_S19_list.txtを新しく名前を付けて保存し、文字コードを「UTF-16LE」とかにしてみてください)
 ### Android
 1. Google PLAYストアから「Gbord -Googleキーボード」をダウンロード。 (すでにインストールされていれば2.に進んでください)
-2. 「Android_S19_list.txt」をクリックし、このマークからダウンロード。![image](https://github.com/user-attachments/assets/884ca5ee-38fb-4ab4-bb04-4fc1a7f00e79)
+2. 「Android_S19_list.txt」をクリックし、右側の「(三点リーダーのマーク)」からダウンロード。
 3. 「設定」から「Gbord」と検索し、Gbordを開く
 4. 「単語リスト」→「日本語」の順に進み、「(三点リーダーのマーク)」から「インポート」を選択
 5. ダウンロードした「Android_S19_list.txt」を選択
+6. 成功すれば単語リストが表示されます。(画面が切り替わらないので一度戻ってみてください)
 
 ## 注意事項
-- スマホはGbordを使います。
+AndroidはGbordを使います。2回目以降の登録はリストが重複してしまうので、気になる方はGbordのデータ初期化を行ってください。<br>
+でも、やらなくても特に問題ない気がします。
+
+### 使用方法の参考
+Windows　<br>
+https://sakusaku-office.com/office/post-10539/
+Android　<br>
+https://4thsight.xyz/13548
+
 
